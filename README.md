@@ -1,5 +1,6 @@
 # algorithms
 I will use this repository to dedicate learning algorithms using the book Algorithms by Aditya Bhargava
 
-![IMG_4901 copy](https://github.com/yuriduartedev/algorithms/assets/36968573/f43009fa-3d99-4035-96f1-b601d08fc08c)
+
+![2 copy](https://github.com/yuriduartedev/algorithms/assets/36968573/2ecaf933-91a0-457f-9c2f-60e978720557)
 
