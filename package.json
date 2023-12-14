@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "I will use this repository to dedicate learning algorithms using the book Algorithms by Aditya Bhargava",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriduartedev/algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriduartedev/algorithms/issues"
+  },
+  "homepage": "https://github.com/yuriduartedev/algorithms#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
